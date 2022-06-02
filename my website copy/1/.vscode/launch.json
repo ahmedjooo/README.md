@@ -1,0 +1,23 @@
+{
+                  // Use IntelliSense to learn about possible attributes.
+                  // Hover to view descriptions of existing attributes.
+                  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+                  "version": "0.2.0",
+                  "configurations":[
+                                    {
+                                                      "name": "Attach to Chrome",
+                                                      "port": 9222,
+                                                      "request": "attach",
+                                                      "type": "chrome",
+                                                      "webRoot": "D:\\New folder (3)\\my prrojects\\1\\index.html"
+                                    },
+                                   {
+                                                     "type": "pwa-chrome",
+                                                     "request": "launch",
+                                                     "name": "open index.html",
+                                                     "file": "D:\\New folder (3)\\my prrojects\\1\\index.html"
+                                   }
+                                    
+                                   
+                  ]
+}
